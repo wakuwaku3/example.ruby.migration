@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "kaiwood.endwise",
+    "rebornix.project-snippets",
+    "rebornix.ruby",
+    "streetsidesoftware.code-spell-checker",
+    "castwide.solargraph",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}

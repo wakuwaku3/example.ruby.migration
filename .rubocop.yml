@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - "vendor/**/*"
+Metrics/BlockLength:
+  Enabled: false
+Layout/LineLength:
+  Enabled: false

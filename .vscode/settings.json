@@ -1,0 +1,27 @@
+{
+  "ruby.useBundler": true,
+  "ruby.intellisense": "rubyLocate",
+  "ruby.useLanguageServer": true,
+  "solargraph.definitions": true,
+  "solargraph.diagnostics": true,
+  "solargraph.useBundler": true,
+  "solargraph.bundlerPath": "/usr/local/bin/bundle",
+  "ruby.lint": {
+    "rubocop": {
+      "useBundler": true
+    },
+    "reek": {
+      "useBundler": true
+    }
+  },
+  "ruby.format": "rubocop",
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "vendor": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  }
+}
